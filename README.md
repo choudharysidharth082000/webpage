@@ -1,4 +1,2 @@
 # Webpage for Guru Gobind Singh Indraprastha University
-Please make this webpage Impressive for GGSIPU website
-jsnjndj mskdfns
-mxckv
+- Made for hacktoberfest
